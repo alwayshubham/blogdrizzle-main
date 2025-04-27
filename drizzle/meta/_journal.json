@@ -78,6 +78,13 @@
       "when": 1745596689615,
       "tag": "0010_little_surge",
       "breakpoints": true
+    },
+    {
+      "idx": 11,
+      "version": "7",
+      "when": 1745685234677,
+      "tag": "0011_yielding_rattler",
+      "breakpoints": true
     }
   ]
 }
